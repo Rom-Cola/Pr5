@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pfz.TravellingSalesman", "Pfz.TravellingSalesman.csproj", "{1E136C36-F42C-42EE-A78A-B2C63DBAA4FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TESTS", "TESTS\TESTS.csproj", "{51F19055-9DC7-4715-881C-1645A114C54D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E136C36-F42C-42EE-A78A-B2C63DBAA4FF}.Debug|x86.ActiveCfg = Debug|x86
+		{1E136C36-F42C-42EE-A78A-B2C63DBAA4FF}.Debug|x86.Build.0 = Debug|x86
+		{1E136C36-F42C-42EE-A78A-B2C63DBAA4FF}.Release|x86.ActiveCfg = Release|x86
+		{1E136C36-F42C-42EE-A78A-B2C63DBAA4FF}.Release|x86.Build.0 = Release|x86
+		{51F19055-9DC7-4715-881C-1645A114C54D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{51F19055-9DC7-4715-881C-1645A114C54D}.Debug|x86.Build.0 = Debug|Any CPU
+		{51F19055-9DC7-4715-881C-1645A114C54D}.Release|x86.ActiveCfg = Release|Any CPU
+		{51F19055-9DC7-4715-881C-1645A114C54D}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

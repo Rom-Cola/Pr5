@@ -1,0 +1,200 @@
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\bin\Debug\Pfz.TravellingSalesman.exe
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\bin\Debug\Pfz.TravellingSalesman.pdb
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\obj\x86\Debug\Pfz.TravellingSalesman.csproj.AssemblyReference.cache
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\obj\x86\Debug\MainWindow.baml
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\obj\x86\Debug\MainWindow.g.cs
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\obj\x86\Debug\App.g.cs
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\obj\x86\Debug\Pfz.TravellingSalesman_MarkupCompile.cache
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\obj\x86\Debug\Pfz.TravellingSalesman.g.resources
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\obj\x86\Debug\Pfz.TravellingSalesman.Properties.Resources.resources
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\obj\x86\Debug\Pfz.TravellingSalesman.csproj.GenerateResource.cache
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\obj\x86\Debug\Pfz.TravellingSalesman.csproj.CoreCompileInputs.cache
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\obj\x86\Debug\Pfz.TravellingSalesman.exe
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\obj\x86\Debug\Pfz.TravellingSalesman.pdb
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\bin\Debug\Pfz.TravellingSalesman.exe
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\bin\Debug\Pfz.TravellingSalesman.pdb
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\obj\x86\Debug\Pfz.TravellingSalesman.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\obj\x86\Debug\MainWindow.baml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\obj\x86\Debug\App.g.cs
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\obj\x86\Debug\Pfz.TravellingSalesman_MarkupCompile.cache
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\obj\x86\Debug\Pfz.TravellingSalesman.g.resources
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\obj\x86\Debug\Pfz.TravellingSalesman.Properties.Resources.resources
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\obj\x86\Debug\Pfz.TravellingSalesman.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\obj\x86\Debug\Pfz.TravellingSalesman.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\obj\x86\Debug\Pfz.TravellingSalesman.exe
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\obj\x86\Debug\Pfz.TravellingSalesman.pdb
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\mongocrypt.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\Pfz.TravellingSalesman.exe.config
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\Pfz.TravellingSalesman.exe
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\Pfz.TravellingSalesman.pdb
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\AWSSDK.Core.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\DnsClient.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\MongoDB.Bson.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\MongoDB.Driver.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\SharpCompress.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\Snappier.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\System.Buffers.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\System.Memory.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\ZstdSharp.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\AWSSDK.Core.xml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\DnsClient.xml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\MongoDB.Bson.xml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\MongoDB.Driver.xml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\Snappier.xml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\System.Buffers.xml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\System.Memory.xml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\obj\x86\Debug\Pfz.TravellingSalesman.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\obj\x86\Debug\MainWindow.baml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\obj\x86\Debug\App.g.cs
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\obj\x86\Debug\Pfz.TravellingSalesman_Content.g.cs
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\obj\x86\Debug\Pfz.TravellingSalesman_MarkupCompile.cache
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\obj\x86\Debug\Pfz.TravellingSalesman.g.resources
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\obj\x86\Debug\Pfz.TravellingSalesman.Properties.Resources.resources
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\obj\x86\Debug\Pfz.TravellingSalesman.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\obj\x86\Debug\Pfz.TravellingSalesman.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\obj\x86\Debug\Pfz.TravellingSalesman.csproj.CopyComplete
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\obj\x86\Debug\Pfz.TravellingSalesman.exe
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman – копія\obj\x86\Debug\Pfz.TravellingSalesman.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\mongocrypt.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\Pfz.TravellingSalesman.exe.config
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\Pfz.TravellingSalesman.exe
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\Pfz.TravellingSalesman.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\AWSSDK.Core.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\AWSSDK.SecurityToken.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\DnsClient.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\Microsoft.Win32.Registry.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\MongoDB.Bson.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\MongoDB.Driver.Core.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\MongoDB.Driver.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\MongoDB.Libmongocrypt.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\SharpCompress.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\Snappier.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\System.Buffers.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\System.Memory.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\System.Numerics.Vectors.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\System.Security.AccessControl.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\System.Security.Principal.Windows.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\System.Text.Encoding.CodePages.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\ZstdSharp.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\AWSSDK.Core.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\AWSSDK.Core.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\AWSSDK.SecurityToken.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\AWSSDK.SecurityToken.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\DnsClient.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\Microsoft.Win32.Registry.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\MongoDB.Bson.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\MongoDB.Driver.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\MongoDB.Driver.Core.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\Snappier.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\System.Buffers.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\System.Memory.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\System.Numerics.Vectors.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\System.Security.AccessControl.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\System.Security.Principal.Windows.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\System.Text.Encoding.CodePages.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\obj\x86\Debug\Pfz.TravellingSalesman.csproj.AssemblyReference.cache
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\obj\x86\Debug\MainWindow.baml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\obj\x86\Debug\MainWindow.g.cs
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\obj\x86\Debug\App.g.cs
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\obj\x86\Debug\Pfz.TravellingSalesman_Content.g.cs
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\obj\x86\Debug\Pfz.TravellingSalesman_MarkupCompile.cache
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\obj\x86\Debug\Pfz.TravellingSalesman.g.resources
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\obj\x86\Debug\Pfz.TravellingSalesman.Properties.Resources.resources
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\obj\x86\Debug\Pfz.TravellingSalesman.csproj.GenerateResource.cache
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\obj\x86\Debug\Pfz.TravellingSalesman.csproj.CoreCompileInputs.cache
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\obj\x86\Debug\Pfz.TravellingSalesman.csproj.CopyComplete
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\obj\x86\Debug\Pfz.TravellingSalesman.exe
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\obj\x86\Debug\Pfz.TravellingSalesman.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\mongocrypt.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\Pfz.TravellingSalesman.exe.config
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\Pfz.TravellingSalesman.exe
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\Pfz.TravellingSalesman.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\AWSSDK.Core.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\AWSSDK.SecurityToken.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\DnsClient.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\Microsoft.Win32.Registry.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\MongoDB.Bson.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\MongoDB.Driver.Core.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\MongoDB.Driver.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\MongoDB.Libmongocrypt.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\SharpCompress.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\Snappier.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\System.Buffers.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\System.Memory.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\System.Numerics.Vectors.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\System.Security.AccessControl.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\System.Security.Principal.Windows.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\System.Text.Encoding.CodePages.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\ZstdSharp.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\AWSSDK.Core.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\AWSSDK.Core.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\AWSSDK.SecurityToken.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\AWSSDK.SecurityToken.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\DnsClient.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\Microsoft.Win32.Registry.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\MongoDB.Bson.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\MongoDB.Driver.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\MongoDB.Driver.Core.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\Snappier.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\System.Buffers.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\System.Memory.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\System.Numerics.Vectors.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\System.Security.AccessControl.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\System.Security.Principal.Windows.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\System.Text.Encoding.CodePages.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\obj\x86\Debug\Pfz.TravellingSalesman.csproj.AssemblyReference.cache
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\obj\x86\Debug\MainWindow.baml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\obj\x86\Debug\MainWindow.g.cs
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\obj\x86\Debug\App.g.cs
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\obj\x86\Debug\Pfz.TravellingSalesman_Content.g.cs
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\obj\x86\Debug\Pfz.TravellingSalesman_MarkupCompile.cache
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\obj\x86\Debug\Pfz.TravellingSalesman.g.resources
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\obj\x86\Debug\Pfz.TravellingSalesman.Properties.Resources.resources
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\obj\x86\Debug\Pfz.TravellingSalesman.csproj.GenerateResource.cache
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\obj\x86\Debug\Pfz.TravellingSalesman.csproj.CoreCompileInputs.cache
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\obj\x86\Debug\Pfz.TravellingSalesman.csproj.CopyComplete
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\obj\x86\Debug\Pfz.TravellingSalesman.exe
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\obj\x86\Debug\Pfz.TravellingSalesman.pdb

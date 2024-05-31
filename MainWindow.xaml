@@ -1,0 +1,43 @@
+﻿<Window x:Class="Pfz.TravellingSalesman.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Travelling Salesman - Genetic Algorithm" SizeToContent="WidthAndHeight" ResizeMode="CanMinimize">
+    <Grid Background="#eeeeee">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Border>
+            <StackPanel Margin="5">
+                <Button Name="buttonResetSearch" Content="Reset search"/>
+                <Button Name="buttonNewDestinations" Content="Create New Destinations"/>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Destination Count: " VerticalAlignment="Center"/>
+                    <TextBlock Name="labelDestinationCount" VerticalAlignment="Center" Text="20 "/>
+                    <Button Name="buttonMoreDestinations" Content=" + "/>
+                    <Button Name="buttonLessDestinations" Content=" - "/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Population Count: " VerticalAlignment="Center"/>
+                    <TextBox Name="textBoxPopulationCount" Width="50" VerticalAlignment="Center" Text="114"/> </StackPanel>
+
+                <CheckBox Name="checkBoxRunning" Content="Running?" IsChecked="True" />
+                <CheckBox Name="checkBoxDoCrossover" Content="Do Crossovers?" IsChecked="True" />
+                <CheckBox Name="checkBoxMutateFailedCrossOvers" Content="Mutate Failed Crossovers?" />
+                <CheckBox Name="checkBoxMutateDuplicates" Content="Mutate Duplicates?"/>
+            </StackPanel>
+        </Border>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Distance in pixels: "/>
+                <Label Name="labelDistance" Content="0"/>
+            </StackPanel>
+            <Canvas Grid.Row="1" Name="canvas" Width="801" Height="601" Background="White"/>
+        </Grid>
+    </Grid>
+</Window>

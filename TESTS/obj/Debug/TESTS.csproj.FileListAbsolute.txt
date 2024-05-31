@@ -1,0 +1,168 @@
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\TESTS\bin\Debug\TESTS.dll
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\TESTS\bin\Debug\TESTS.pdb
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\TESTS\bin\Debug\Pfz.TravellingSalesman.exe
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\TESTS\bin\Debug\xunit.abstractions.dll
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\TESTS\bin\Debug\xunit.assert.dll
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\TESTS\bin\Debug\xunit.core.dll
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\TESTS\bin\Debug\xunit.execution.desktop.dll
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\TESTS\bin\Debug\Pfz.TravellingSalesman.pdb
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\TESTS\bin\Debug\xunit.abstractions.xml
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\TESTS\bin\Debug\xunit.assert.pdb
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\TESTS\bin\Debug\xunit.assert.xml
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\TESTS\bin\Debug\xunit.core.pdb
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\TESTS\bin\Debug\xunit.core.xml
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\TESTS\bin\Debug\xunit.execution.desktop.pdb
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\TESTS\bin\Debug\xunit.execution.desktop.xml
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\TESTS\obj\Debug\TESTS.csproj.AssemblyReference.cache
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\TESTS\obj\Debug\TESTS.csproj.CoreCompileInputs.cache
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\TESTS\obj\Debug\TESTS.csproj.CopyComplete
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\TESTS\obj\Debug\TESTS.dll
+C:\Users\cherm\OneDrive\Рабочий стол\Pfz.TravellingSalesman\TESTS\obj\Debug\TESTS.pdb
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\TESTS\bin\Debug\TESTS.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\TESTS\bin\Debug\TESTS.pdb
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\TESTS\bin\Debug\Pfz.TravellingSalesman.exe
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\TESTS\bin\Debug\xunit.abstractions.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\TESTS\bin\Debug\xunit.assert.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\TESTS\bin\Debug\xunit.core.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\TESTS\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\TESTS\bin\Debug\Pfz.TravellingSalesman.pdb
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\TESTS\bin\Debug\xunit.abstractions.xml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\TESTS\bin\Debug\xunit.assert.pdb
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\TESTS\bin\Debug\xunit.assert.xml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\TESTS\bin\Debug\xunit.core.pdb
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\TESTS\bin\Debug\xunit.core.xml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\TESTS\bin\Debug\xunit.execution.desktop.pdb
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\TESTS\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\TESTS\obj\Debug\TESTS.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\TESTS\obj\Debug\TESTS.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\TESTS\obj\Debug\TESTS.csproj.CopyComplete
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\TESTS\obj\Debug\TESTS.dll
+C:\Users\Роман\Desktop\Pfz.TravellingSalesman\TESTS\obj\Debug\TESTS.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\mongocrypt.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\TESTS.dll.config
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\TESTS.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\TESTS.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\AWSSDK.Core.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\AWSSDK.SecurityToken.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\DnsClient.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\Microsoft.Win32.Registry.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\MongoDB.Bson.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\MongoDB.Driver.Core.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\MongoDB.Driver.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\MongoDB.Libmongocrypt.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\Pfz.TravellingSalesman.exe
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\SharpCompress.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\Snappier.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\System.Buffers.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\System.Memory.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\System.Numerics.Vectors.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\System.Security.AccessControl.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\System.Security.Principal.Windows.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\System.Text.Encoding.CodePages.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\xunit.abstractions.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\xunit.assert.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\xunit.core.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\xunit.execution.desktop.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\ZstdSharp.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\Pfz.TravellingSalesman.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\Pfz.TravellingSalesman.exe.config
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\AWSSDK.Core.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\AWSSDK.Core.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\AWSSDK.SecurityToken.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\AWSSDK.SecurityToken.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\DnsClient.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\Microsoft.Win32.Registry.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\MongoDB.Bson.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\MongoDB.Driver.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\MongoDB.Driver.Core.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\Snappier.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\System.Buffers.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\System.Memory.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\System.Numerics.Vectors.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\System.Security.AccessControl.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\System.Security.Principal.Windows.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\System.Text.Encoding.CodePages.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\xunit.abstractions.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\xunit.assert.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\xunit.assert.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\xunit.core.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\xunit.core.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\xunit.execution.desktop.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\bin\Debug\xunit.execution.desktop.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\obj\Debug\TESTS.csproj.AssemblyReference.cache
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\obj\Debug\TESTS.csproj.CoreCompileInputs.cache
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\obj\Debug\TESTS.csproj.CopyComplete
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\obj\Debug\TESTS.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pfz.TravellingSalesman – копія\TESTS\obj\Debug\TESTS.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\mongocrypt.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\TESTS.dll.config
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\TESTS.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\TESTS.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\AWSSDK.Core.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\AWSSDK.SecurityToken.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\DnsClient.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\Microsoft.Win32.Registry.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\MongoDB.Bson.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\MongoDB.Driver.Core.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\MongoDB.Driver.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\MongoDB.Libmongocrypt.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\Pfz.TravellingSalesman.exe
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\SharpCompress.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\Snappier.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\System.Buffers.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\System.Memory.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\System.Numerics.Vectors.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\System.Security.AccessControl.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\System.Security.Principal.Windows.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\System.Text.Encoding.CodePages.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\xunit.abstractions.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\xunit.assert.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\xunit.core.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\xunit.execution.desktop.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\ZstdSharp.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\Pfz.TravellingSalesman.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\Pfz.TravellingSalesman.exe.config
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\AWSSDK.Core.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\AWSSDK.Core.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\AWSSDK.SecurityToken.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\AWSSDK.SecurityToken.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\DnsClient.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\Microsoft.Win32.Registry.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\MongoDB.Bson.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\MongoDB.Driver.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\MongoDB.Driver.Core.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\Snappier.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\System.Buffers.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\System.Memory.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\System.Numerics.Vectors.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\System.Security.AccessControl.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\System.Security.Principal.Windows.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\System.Text.Encoding.CodePages.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\xunit.abstractions.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\xunit.assert.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\xunit.assert.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\xunit.core.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\xunit.core.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\xunit.execution.desktop.pdb
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\bin\Debug\xunit.execution.desktop.xml
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\obj\Debug\TESTS.csproj.AssemblyReference.cache
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\obj\Debug\TESTS.csproj.CoreCompileInputs.cache
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\obj\Debug\TESTS.csproj.CopyComplete
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\obj\Debug\TESTS.dll
+F:\Roman\OneDrive\KPI\2 курс 2 сем\Кіберфіз\Pr5\Pr5\TESTS\obj\Debug\TESTS.pdb
